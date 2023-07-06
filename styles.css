@@ -1,2 +1,11 @@
+.holder{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
 
-/* Your CSS Code here. */
+.div1, .div2, .div3{
+	width:150px;
+	height:150px;
+	border:1px solid black;
+}
